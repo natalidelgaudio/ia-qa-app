@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Visual Studio / LM Studio
+.vs/
+*.suo
+
+# Python virtual environments
+.venv/
+env/
+
+# Arquivos de solução do Visual Studio
+*.sln
+*.sqlite
